@@ -1,0 +1,7 @@
+name = "email" # todo
+main = "./src/index.ts"
+compatibility_date = "2023-05-06"
+
+kv_namespaces = [
+	{ binding = "data", id = "2870141d9f274c6db12d170e01e0b953" }
+]
